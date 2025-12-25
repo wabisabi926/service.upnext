@@ -1,5 +1,5 @@
 # Service Up Next language file
-# Addon Name: Up Next
+# Addon Name: 下个播放
 # Addon id: service.upnext
 # Addon Provider: im85288
 msgid ""
@@ -24,7 +24,7 @@ msgstr "立即播放"
 
 msgctxt "#30008"
 msgid "Up Next"
-msgstr "下一集"
+msgstr "下个播放"
 
 msgctxt "#30009"
 msgid "Ends at: $INFO[Window.Property(endtime)]"
@@ -96,7 +96,7 @@ msgstr "下一集"
 
 msgctxt "#30060"
 msgid "[B]UP NEXT DEMO MODE ENABLED[/B]"
-msgstr "[B]UP NEXT 演示模式开启[/B]"
+msgstr "[B]“下个播放”演示模式开启[/B]"
 
 msgctxt "#30061"
 msgid "[I]Episodes automatically skip to end.[/I]"
@@ -177,7 +177,7 @@ msgstr "专家"
 
 msgctxt "#30703"
 msgid "Disable Up Next"
-msgstr "禁用“下一集”"
+msgstr "禁用“下个播放”"
 
 msgctxt "#30705"
 msgid "Log level"
