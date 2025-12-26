@@ -1,5 +1,5 @@
 # Service Up Next language file
-# Addon Name: 下个播放
+# Addon Name: Up Next
 # Addon id: service.upnext
 # Addon Provider: im85288
 msgid ""
