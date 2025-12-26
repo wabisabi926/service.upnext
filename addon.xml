@@ -45,8 +45,12 @@ Muchos complementos existentes ya se integran con este servicio listo para usar.
         <platform>all</platform>
         <license>GPL-2.0-only</license>
         <news>
-v1.1.9 (2025-09-13)
-- Supports Kodi 20+
+v1.1.9 (2023-05-10)
+- Fix handling of non-ASCII filenames for Kodi18 (@MoojMidge)
+- Fix failing ci workflow (@MoojMidge)
+- Update Swedish translation (@Sopor)
+- Explicitly set sonarcloud coverage path (@MoojMidge)
+- Fix error when kodi is not playing video any longer (@AnonTester)
         
 v1.1.8 (2022-09-13)
 - Never ask if Still Watching? if playedInARow is 0
